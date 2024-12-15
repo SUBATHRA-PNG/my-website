@@ -1,5 +1,4 @@
-# my-website
-<!DOCTYPE html>
+# My-Website
 <html lang="en">
 <head>
     <meta charset="UTF-8">
